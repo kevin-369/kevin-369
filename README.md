@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/kevin-369/kevin-369/95957ab03bfe2ebeca6850cc0a15621113e150fb/replicate-prediction-v78486h5fhrgc0ckcmyszp7xwm.png" alt="Kevin's Header" />
+  <img src="https://github.com/kevin-369/kevin-369/blob/bbb9dafc4b89d48aeee294b1d7bf127dd2a7c669/project_kev.png" alt="Kevin's Header" />
   <br>Hi 👋, I'm Kevin Okacha
 </h1>
 <h3 align="center">Creative Developer | Blending Art and Code for Immersive Experiences</h3>
